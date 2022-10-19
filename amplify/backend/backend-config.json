@@ -1,1 +1,9 @@
-{}
+{
+  "function": {
+    "documents3trigger22cecc07": {
+      "build": true,
+      "providerPlugin": "awscloudformation",
+      "service": "Lambda"
+    }
+  }
+}

@@ -10,6 +10,14 @@
       "StackName": "amplify-documents3trigger-dev-152932",
       "StackId": "arn:aws:cloudformation:us-east-2:739297781662:stack/amplify-documents3trigger-dev-152932/cefee1c0-4fec-11ed-b117-06dae90ac7d2",
       "AmplifyAppId": "d2gbvjhyg0zkfs"
+    },
+    "categories": {
+      "function": {
+        "documents3trigger22cecc07": {
+          "deploymentBucketName": "amplify-documents3trigger-dev-152932-deployment",
+          "s3Key": "amplify-builds/documents3trigger22cecc07-3648454c584f4b354e51-build.zip"
+        }
+      }
     }
   }
 }
